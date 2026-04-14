@@ -1,6 +1,3 @@
-# Welcome to your  project
-
-TODO:
 # Task Management Frontend
 
 A React-based frontend for the Task Management System. It connects with a Laravel API backend to manage tasks, users, and workflow efficiently.
