@@ -1,7 +1,8 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: 'https://task.ipsitacomputersltd.com/backend/public/api/',
+  // baseURL: 'https://task.ipsitacomputersltd.com/backend/public/api/',
+  baseURL: 'http://localhost:8000/api/',
   headers: { 'Content-Type': 'application/json' },
 });
 
